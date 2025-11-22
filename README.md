@@ -1,2 +1,9 @@
-# pusat-komik
-Web pusat komik (Design only)
+
+# Pusat Komik 
+
+web design using only html and css
+
+## Authors
+
+- [@AjayAdn](https://www.github.com/AjayAdn)
+
